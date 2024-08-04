@@ -2,6 +2,29 @@
 
 このリポジトリは、Cpp開発環境用テンプレートです。
 
+## 事前準備
+
+初めてGitHubとDockerを使用する場合は、以下の手順に従ってインストールしてください。
+
+### GitHubのインストール
+1. GitHubの公式サイトにアクセスし、アカウントを作成します: [GitHub](https://github.com/)
+2. Gitをインストールします:
+    - **Windows**: [Git for Windows](https://gitforwindows.org/) からインストーラをダウンロードし、インストールします。
+    - **Mac**: ターミナルを開き、以下のコマンドを実行します:
+        ```sh
+        brew install git
+        ```
+    - **Linux**: ターミナルを開き、以下のコマンドを実行します:
+        ```sh
+        sudo apt-get install git
+        ```
+
+### Dockerのインストール
+1. Dockerの公式サイトにアクセスし、Docker Desktopをダウンロードします: [Docker](https://www.docker.com/products/docker-desktop)
+2. インストーラの指示に従って、Docker Desktopをインストールします。
+
+インストール後、Docker Desktopを起動し、設定を完了します。
+
 ## インストール
 
 1. リポジトリをクローンします:
